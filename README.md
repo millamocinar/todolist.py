@@ -1,1 +1,1 @@
-# todolist.py
+şakalı gündelik güzel bi kod oldu
